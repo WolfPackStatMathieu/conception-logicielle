@@ -262,7 +262,7 @@ test-python-application:
 :boom: Ajoutez donc tout cela a votre dépot git via un add/commit/push
 #### Mise a niveau des scripts
 
-Le champ script attend une liste de scripts suivis les un des autres avec des guillemets : 
+Le champ script attend une liste de scripts suivis les un des autres avec des tirets : 
 
 ```yaml
 stages:
